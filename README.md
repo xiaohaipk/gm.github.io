@@ -16,7 +16,7 @@ a, body, div,footer, h1, h2, h3, h4, h5, h6, header, html, i, img, menu, nav,  p
 a{text-decoration: none;color: #ffffff;-webkit-touch-callout: none;-webkit-user-select: none;-webkit-tap-highlight-color: transparent; outline: none;transition: color .1s ease;}
 html{overflow-x:hidden;font-size: 62.5%;}
 html,body{position: relative;height: 100%;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
-body{font-family: "Microsoft Yahei", sans-serif;font-size: 15px;background-color: #f3f5f7;color: #333;background: url(https://s2.loli.net/2024/01/03/DgfWaZqk91oIvmS.png);background-attachment: fixed;background-repeat: no-repeat;background-size: cover;}
+body{font-family: "Microsoft Yahei", sans-serif;font-size: 15px;background-color: #f3f5f7;color: #333;background: url(img/2021090814460596.png);background-attachment: fixed;background-repeat: no-repeat;background-size: cover;}
 header{width: 100%;height: 60px;background-color: rgba(255,255,255,1);}
 main{width: 100%;padding: 10px;}
 .max{max-width: 750px;margin: 0 auto;}
