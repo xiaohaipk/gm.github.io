@@ -25,7 +25,7 @@
 		var fabu_app = "发布时间：2023-6-8丨 ssltgm.com";//发布信息
 		var dibu_app = "Copyright © All Rights Reserved";//底部版权信息
 		var ewm_app = "img/ewm.png";//app下载二维码地址
-		var xiaz_app = "mhttp://gmyxkgx.gptzfx.com";//app下载地址
+		var xiaz_app = "http://gmyxkgx.gptzfx.com";//app下载地址
 		var text_app = "收集、整理和展示游戏软件平台，包含各种类型的游戏，如动作、冒险、角色扮演、体育、模拟、策略等等，玩家可以在其中浏览、搜索、筛选、购买、下载或试玩游戏，可以满足各种类型、主题和级别的玩家需求。";//app介绍
 
 				var win_width = $(window).width();
